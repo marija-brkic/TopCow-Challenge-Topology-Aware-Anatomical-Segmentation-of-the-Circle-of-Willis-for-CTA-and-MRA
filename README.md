@@ -1,0 +1,1 @@
+# TopCow-Challenge-Topology-Aware-Anatomical-Segmentation-of-the-Circle-of-Willis-for-CTA-and-MRA
